@@ -1,2 +1,3 @@
 # spam-classifier
-Email Spam detection using Machine Learning
+Email Spam detection using Naive Bayes
+
